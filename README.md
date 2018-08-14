@@ -17,7 +17,7 @@ The PDF and supporting materials for the talk I gave at USTARS 2018 at Reed Coll
 * A Python 3 script to calculate the Wirtinger number of a diagram is available [here][calc-wirt].
 * Puttipong Pongtanapaisan proved that this result holds for virtual links.  His paper: [*Wirtinger Numbers for Virtual Links*][virtuallinks]
 * [This paper][incompat] by Blair, Kjuchukova, and Makoto proves that not every reduced, minimal crossing diagram realizes the minimum Wirtinger number of a knot.
-* We added the bridge numbers for the 12 crossings knots to the KnotInfo database maintained by Charles Livingston at Indiana University.  You can find it [here][knotinfo].
+* We added the bridge numbers for the 12 crossings knots to the KnotInfo database maintained by Charles Livingston and Jae Choon Cha at Indiana University.  You can find the database [here][knotinfo].
 * The Wirtinger numbers for prime knots of 13 crossings and higher can be found on Alexandra Kjuchukova's website [here][13+wirts].
 
 ## Contact
@@ -30,3 +30,4 @@ Send questions, comments, and feedback to pvillanueva13 at gmail dot com.
 [knotinfo]: http://www.indiana.edu/~knotinfo/
 [13+wirts]: https://sites.google.com/a/wisc.edu/alexandra-a-kjuchukova/bridge-numbers
 [incompat]: https://arxiv.org/abs/1710.11327
+
